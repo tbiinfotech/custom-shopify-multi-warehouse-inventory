@@ -11,6 +11,5 @@ full-fledged business.
 
 - [x] Our app further makes it easier for the merchant to monitor all the products and variants that are hitting the minimum stock levels and need to be refilled immediately.
 
-![Screenshot](https://github.com/tbiinfotech/custom-shopify-multi-warehouse-inventory/blob/main/Switching-between-Warehouse-Locations.webp)
 ![Screenshot](https://github.com/tbiinfotech/custom-shopify-multi-warehouse-inventory/blob/main/Managing-stock-levels-manually.webp)
-![Screenshot](https://github.com/tbiinfotech/custom-shopify-multi-warehouse-inventory/blob/main/Only-Show-to-Order.webp)
+
